@@ -2,8 +2,9 @@ public class Main{
 
 public static void main(String[] args) {
 
-    System.out.println("Hello");
-    System.out.println("Hello Universe");
+Book book1 = new Book("Madol duwa", "M.Wickramasinghe");
+
+book1.printDetails();
 
 }
 
