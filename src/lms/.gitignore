@@ -1,0 +1,9 @@
+out/
+build/
+target/
+*.class
+lms.db
+*.jar
+.idea/
+*.iml
+.vscode/
